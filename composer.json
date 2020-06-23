@@ -34,12 +34,5 @@
     },
     "require-dev": {
         "orchestra/testbench": "~3.0"
-    },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Venturecraft\\Revisionable\\RevisionableServiceProvider"
-            ]
-        }
     }
 }
